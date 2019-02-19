@@ -1,0 +1,5 @@
+1 - write tests
+2 - write code to pass tests
+3 - submit my code to canvas
+4
+5
